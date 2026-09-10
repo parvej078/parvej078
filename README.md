@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Parvej Alam
 
-### Python Developer | Django | Machine Learning | Data Analytics
+Data Analytics
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=parvej078&label=Profile%20Views&color=7F3FBF&style=flat" alt="Profile Views" />
