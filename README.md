@@ -1,100 +1,81 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F3FBF&height=200&section=header&text=Hi%20I'm%20Parvej%20Alam&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Python%20Developer%20|%20Django%20|%20Machine%20Learning%20|%20Data%20Analytics&descSize=18&descAlignY=65)
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Python+Developer;Django+Developer;Machine+Learning+Enthusiast;Data+Analytics+Learner&font=Fira%20Code&center=true&width=440&height=45&color=7F3FBF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=PARVEJ%20ALAM&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=BCA%20Student%20%7C%20Data%20Analytics%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parvej078&label=Profile%20Views&color=7F3FBF&style=flat" alt="Profile Views" />
-</p>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Data+Analytics+Enthusiast;Excel+%7C+Power+BI+%7C+JavaScript;Building+Practical+Projects;Always+Learning+Something+New" />
+</a>
 
-![About Me Banner](https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:7F3FBF&height=100&section=header&text=About%20Me&fontSize=35&fontColor=ffffff&animation=fadeIn)
+<br><br>
 
-<table>
-<tr>
-<td>
+<a href="https://github.com/parvej078">
+<img src="https://komarev.com/ghpvc/?username=parvej078&style=for-the-badge&color=7dd3fc&label=PROFILE+VIEWS">
+</a>
 
-I am **Parvej Alam**, a BCA student interested in Python development, Django, Machine Learning, and Data Analytics.
+<a href="https://github.com/parvej078?tab=followers">
+<img src="https://img.shields.io/github/followers/parvej078?style=for-the-badge&color=7dd3fc&label=FOLLOWERS">
+</a>
 
-I enjoy building practical projects and learning technologies that help solve real-world problems. I am continuously improving my programming, data analysis, and web development skills.
+</div>
 
-- 🎓 BCA Student
-- 💻 Interested in Python & Django Development
-- 🤖 Learning Machine Learning
-- 📊 Learning Data Analytics
-- 🚀 Building practical projects
-- 📚 Always learning and improving
+---
 
-</td>
-</tr>
-</table>
+## 🌌 Who I Am
 
-![Skills Banner](https://capsule-render.vercel.app/api?type=venom&color=0:7F3FBF,100:00F5FF&height=100&section=header&text=Skills&fontSize=35&fontColor=ffffff&animation=fadeIn)
+```javascript
+const parvej = {
+  title: "BCA Student",
+  focus: "Data Analytics",
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "MS Excel",
+    "Power BI"
+  ],
+  project: "Job and Jobbers",
+<div align="center">
+✦ Explore • Analyze • Build ✦
+</div>
+🧊 My Skills
+<table> <tr> <td align="center" width="33%">
+🌐 Web
+<img src="https://skillicons.dev/icons?i=html,css,js" /> </td> <td align="center" width="33%">
+📊 Excel
+<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" /> </td> <td align="center" width="33%">
+📈 Power BI
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" /> </td> </tr> </table>
+🚀 Featured Project
+<div align="center"> <a href="https://github.com/parvej078"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=parvej078&repo=Job-and-Jobbers&theme=nord&border_color=7dd3fc&title_color=7dd3fc" /> </a> </div>
+💼 Job and Jobbers
 
-<table>
-<tr>
-<td align="center">
+A job and candidate matching platform designed to connect employers and candidates through an intelligent skill-based matching concept.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+Layer	Technology
+Frontend	HTML • CSS • JavaScript
+Analytics	Data-focused workflow
+Project Focus	Jobs • Candidates • Matching
+🎓 Education
+<div align="center">
+🎓 Bachelor of Computer Applications (BCA)
 
-</td>
-</tr>
-</table>
+Learning practical technology skills through projects and continuous practice.
 
-![Stats Banner](https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:7F3FBF&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontColor=ffffff&animation=fadeIn)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvej078&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvej078&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-![Project Banner](https://capsule-render.vercel.app/api?type=venom&color=0:7F3FBF,100:00F5FF&height=100&section=header&text=Featured%20Project&fontSize=32&fontColor=ffffff&animation=fadeIn)
-
-<table>
-<tr>
-<td>
-
-### 💼 Job and Jobbers Using Machine Learning and Django
-
-An intelligent web-based recruitment platform designed to connect skilled candidates with suitable job opportunities using Machine Learning and Django.
-
-**🔹 Key Features:**
-- Intelligent Candidate Classification
-- Automated Job Matching
-- Candidate and Job Profile Management
-- Skill-based Job Recommendations
-- Automated Notifications
-- Data-driven recruitment support
-
-**🔹 Technology Stack:**
-Python, Django, HTML, CSS, JavaScript, jQuery, AJAX, Machine Learning, Pandas, NumPy, Scikit-learn, MySQL/PostgreSQL
-
-**🔹 Objective:**
-Reduce manual recruitment effort and improve candidate–job matching through Machine Learning.
-
-</td>
-</tr>
-</table>
-
-![Connect Banner](https://capsule-render.vercel.app/api?type=venom&color=0:00F5FF,100:7F3FBF&height=100&section=header&text=Connect%20with%20Me&fontSize=32&fontColor=ffffff&animation=fadeIn)
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/parvej-alam-1b7243378">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
-
-<p align="center">📍 Lucknow, Uttar Pradesh, India</p>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7F3FBF&height=100&section=footer)
+</div>
+📊 GitHub Analytics
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=parvej078&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" height="180"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvej078&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc" height="180"> </div> <br> <div align="center"> <img src="https://streak-stats.demolab.com?user=parvej078&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc"> </div>
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=parvej078&theme=nord&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%"> </div>
+🌀 Contribution Activity
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=parvej078&bg_color=0f172a&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"> </div>
+💠 3D Contribution
+<div align="center"> <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/profile-3d-contrib/profile-night-rainbow.svg" width="100%"> </div>
+🔗 Connect With Me
+<div align="center"> <a href="https://github.com/parvej078"> <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"> </a> <a href="https://www.linkedin.com/in/parvej-alam-1b7243378/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:parvej.siddiqui7860@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-7DD3FC?style=for-the-badge&logo=gmail&logoColor=white"> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling&color=0:0f172a,50:164e63,100:7dd3fc" width="100%">
+🚀 Thanks for visiting my profile!
+</div> ```
+ye jo box ke bahar h connet with me wala wo bhi copy karna h 
+  status: "Learning • Building • Improving",
+  openTo: "Entry-level opportunities"
+};
