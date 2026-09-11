@@ -258,13 +258,6 @@ Learning technology through academics, practical work and projects.
 </div>
 
 ---
-## 🌀 GitHub Contributions
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=parvej078&theme=dark&hide_border=true)](https://github.com/parvej078)
-
-</div>
 ---
 
 # 📌 What I'm Working On
