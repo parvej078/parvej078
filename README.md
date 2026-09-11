@@ -258,7 +258,6 @@ Learning technology through academics, practical work and projects.
 </div>
 
 ---
-
 # 🌀 Contribution Graph
 
 <div align="center">
