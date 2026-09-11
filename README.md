@@ -253,7 +253,7 @@ Learning technology through academics, practical work and projects.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parvej078&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=6" width="95%"/>
+<img src="https://github-profile-svg.vercel.app/api/profile?username=parvej078&mode=glass&theme=dark&showLocked=true&v=2" width="100%" alt="GitHub Achievements"/>
 
 </div>
 
@@ -263,10 +263,13 @@ Learning technology through academics, practical work and projects.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvej078&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" width="100%"/>
+<a href="https://github.com/parvej078">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvej078&theme=github-compact&hide_border=true" width="100%" alt="Parvej Alam GitHub Activity Graph"/>
+
+</a>
 
 </div>
-
 ---
 
 # 📌 What I'm Working On
