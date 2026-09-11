@@ -262,11 +262,7 @@ Learning technology through academics, practical work and projects.
 
 <div align="center">
 
-<a href="https://github.com/parvej078">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvej078&theme=github-compact&hide_border=true" width="100%" alt="Parvej Alam GitHub Activity Graph"/>
-
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=parvej078&theme=github-compact&hide_border=true" width="100%" alt="GitHub Contribution Graph">
 
 </div>
 ---
